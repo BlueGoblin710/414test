@@ -1,0 +1,14 @@
+{
+    "name": "414test",
+    "version": "1.0.0",
+    "description": "A simple project for testing purposes.",
+    "main": "src/index.html",
+    "scripts": {
+      "start": "open src/index.html"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {}
+  }
